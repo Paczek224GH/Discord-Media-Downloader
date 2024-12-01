@@ -35,8 +35,10 @@ Save the PaczekMediaDownloader.js file to your computer.
 -Move the PaczekMediaDownloader.js file to the opened folder.
 
 3.Enable the Plugin
-Go back to the Plugins menu in Discord.
-Enable the "PaczekMediaDownloader" plugin.
+
+-Go back to the Plugins menu in Discord.
+
+-Enable the "PaczekMediaDownloader" plugin.
 
 -----------------------
 Usage
