@@ -1,17 +1,27 @@
+-----------------------
 PaczekMediaDownloader
+-----------------------
 Version: 1.1.3
 Author: Paczek224
-
+-----------------------
 Description
+-----------------------
+
 PaczekMediaDownloader is a plugin for BetterDiscord that allows you to download all images and videos in a channel with a single click or a convenient keyboard shortcut.
 
+-----------------------
 Features
+-----------------------
+
 Adds a "Download All Media" button to the toolbar in Discord.
 Supports media files such as images (.jpg, .jpeg, .png, .gif) and videos (.mp4, .webm).
 Includes a keyboard shortcut (Ctrl + Shift + D) for quick downloads.
-Installation
-Download the Plugin File
 
+-----------------------
+Installation
+-----------------------
+
+Download the Plugin File
 Save the PaczekMediaDownloader.js file to your computer.
 Add to BetterDiscord
 
