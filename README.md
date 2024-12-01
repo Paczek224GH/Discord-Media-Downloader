@@ -25,10 +25,10 @@ Installation
 Save the PaczekMediaDownloader.js file to your computer.
 
 2.Add to BetterDiscord
--Open Discord.
--Go to Settings > Plugins.
--Click on the "Open Plugins Folder" button.
--Move the PaczekMediaDownloader.js file to the opened folder.
+.Open Discord.
+.Go to Settings > Plugins.
+.Click on the "Open Plugins Folder" button.
+.Move the PaczekMediaDownloader.js file to the opened folder.
 
 3.Enable the Plugin
 Go back to the Plugins menu in Discord.
