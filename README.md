@@ -44,16 +44,24 @@ Permissions: Ensure you have access to view media in the channel.
 -----------------------
 Limitations
 -----------------------
+
 Only downloads media visible in the current chat window. If media is not loaded in the current view, it will not be included.
+
 -----------------------
 Known Issues
 -----------------------
+
 Button Not Appearing: If the "Download All Media" button does not appear, try refreshing Discord or restarting the plugin.
 Keyboard Shortcut Conflict: If another plugin uses Ctrl + Shift + D, the shortcut might not work.
+
 -----------------------
 Support
 -----------------------
+
 For any questions or issues, please contact Paczek224.
 
+-----------------------
 License
+-----------------------
+
 This plugin is distributed under the MIT License. You are free to use, modify, and distribute it as you wish.
