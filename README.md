@@ -14,7 +14,9 @@ Features
 -----------------------
 
 Adds a "Download All Media" button to the toolbar in Discord.
+
 Supports media files such as images (.jpg, .jpeg, .png, .gif) and videos (.mp4, .webm).
+
 Includes a keyboard shortcut (Ctrl + Shift + D) for quick downloads.
 
 -----------------------
