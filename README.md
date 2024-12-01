@@ -21,26 +21,35 @@ Includes a keyboard shortcut (Ctrl + Shift + D) for quick downloads.
 Installation
 -----------------------
 
-Download the Plugin File
+1.Download the Plugin File
 Save the PaczekMediaDownloader.js file to your computer.
-Add to BetterDiscord
 
-Open Discord.
-Go to Settings > Plugins.
-Click on the "Open Plugins Folder" button.
-Move the PaczekMediaDownloader.js file to the opened folder.
-Enable the Plugin
+2.Add to BetterDiscord
+-Open Discord.
+-Go to Settings > Plugins.
+-Click on the "Open Plugins Folder" button.
+-Move the PaczekMediaDownloader.js file to the opened folder.
 
+3.Enable the Plugin
 Go back to the Plugins menu in Discord.
 Enable the "PaczekMediaDownloader" plugin.
+
+-----------------------
 Usage
-Navigate to a channel containing the media you want to download.
-Use one of the following methods to download all media:
-Click the "Download All Media" button in the toolbar.
-Press Ctrl + Shift + D on your keyboard.
+-----------------------
+
+1.Navigate to a channel containing the media you want to download.
+2.Use one of the following methods to download all media:
+-Click the "Download All Media" button in the toolbar.
+-Press Ctrl + Shift + D on your keyboard.
+
+-----------------------
 Requirements
+-----------------------
+
 BetterDiscord: Make sure you have BetterDiscord installed on your system.
 Permissions: Ensure you have access to view media in the channel.
+
 -----------------------
 Limitations
 -----------------------
